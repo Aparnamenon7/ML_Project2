@@ -27,8 +27,7 @@ This is done using train_test_split with random_state=42 for reproducibility.
 A Linear Regression model is created using LinearRegression from scikit-learn.
 The model is trained on the training data (X_train, y_train) using .fit().
 
-
-This script performs a simple Linear Regression analysis using Python to predict Airbnb prices in Tokyo based on their distance from Tokyo Tower. Here's a step-by-step explanation of the task:
+Here's a step-by-step explanation of the task:
 
 1. Dataset Loading
 The dataset is stored in an Excel file located at D:\Python projects\python\tokyo_airbnb_dataset.xlsx.
